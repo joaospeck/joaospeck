@@ -1,8 +1,8 @@
-Olá, seja bem-vindo ao meu perfil no Github!
+Hi, welcome to my Github profile!
 
 
-- 🔭 Atualmente trabalho no setor de Infraestrutura, também faço desenvolvimento usando JavaScript, HTML e CSS
-- 🌱 Estou estudando JavaScript, HTML e CSS
+- 🔭 Currently I work in the Infrastructure sector, I also do development using JavaScript, HTML and CSS
+- 🌱 I'm studying JavaScript, HTML and CSS
 
 <div align="center">
   <a href="https://github.com/joaospeck">
