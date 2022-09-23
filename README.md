@@ -1,8 +1,8 @@
 Hi, welcome to my Github profile!
 
 
-- 🔭 Currently I work in the Infrastructure sector, I also do development using JavaScript, HTML and CSS
-- 🌱 I'm studying JavaScript, HTML and CSS
+- 🔭 Currently I work in the Infrastructure sector, I also do development using JavaScript, Bootstrap and jQuery
+- 🌱 I'm studying JavaScript and Bootstrap
 
 <div align="center">
   <a href="https://github.com/joaospeck">
